@@ -1,7 +1,7 @@
 # Going-Serverless-in-Watson-Assistant
 
 # Workshop Resources
-- Login/Sign Up for [IBM Cloud](https://ibm.biz/MEA-DataAI) <br>
+- Login/Sign Up for [IBM Cloud](https://ibm.biz/DeveloperSummit) <br>
 - [Slides](https://github.com/IBMDeveloperMEA/Fraud-Loan-Predictions-using-Automated-Machine-Learning/blob/main/FraudLoan-AutoAI-Slides.pdf) <br>
 - Workshop [Replay]() <br>
 - [Survey](https://docs.google.com/forms/d/e/1FAIpQLSc72c2ABrF1uiB0OLWYwt_sbDNeA9YEBAxEknJl-L6ik7cfQQ/viewform) (We really appreciate any feedback :D) <br><br>
@@ -10,7 +10,7 @@
 
 
 
-There are 3 steps to create your account on [IBM Cloud](https://ibm.biz/MEA-DataAI): <br>
+There are 3 steps to create your account on [IBM Cloud](https://ibm.biz/DeveloperSummit): <br>
 1- Put your email and password. <br>
 2- You get a verification link with the registered email to verify your account. <br>
 3- Fill the personal information fields. <br>
@@ -37,7 +37,7 @@ After completing this tutorial, you understand how to:
 
 ## Prerequisites
 
-To complete the tutorial, you need an [IBM Cloud](https://ibm.biz/BdfMqU) account. You can get a free trial account, which gives you access to IBM Cloud, Watson Assistant, and IBM Cloud Functions.
+To complete the tutorial, you need an [IBM Cloud](https://ibm.biz/DeveloperSummit) account. You can get a free trial account, which gives you access to IBM Cloud, Watson Assistant, and IBM Cloud Functions.
 
 ## Estimated time
 
@@ -186,7 +186,7 @@ In this tutorial, you learned how to extend a chatbot's capabilities with the po
 
 
 # Workshop Resources
-- Login/Sign Up for [IBM Cloud](https://ibm.biz/MEA-DataAI) <br>
+- Login/Sign Up for [IBM Cloud](https://ibm.biz/DeveloperSummit) <br>
 - [Slides]() <br>
 - Workshop [Replay]() <br> 
 - [Survey](https://docs.google.com/forms/d/e/1FAIpQLSc72c2ABrF1uiB0OLWYwt_sbDNeA9YEBAxEknJl-L6ik7cfQQ/viewform) (We really appreciate any feedback :D) <br><br>
