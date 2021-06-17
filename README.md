@@ -8,7 +8,7 @@
 - Click [Here](https://ibm.biz/MEA-DataAI-Survey) to fill the survey (We really appreciate any feedback :D) <br>
 - Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
 - Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
-- Survey [https://docs.google.com/forms/d/e/1FAIpQLSc72c2ABrF1uiB0OLWYwt_sbDNeA9YEBAxEknJl-L6ik7cfQQ/viewform]
+- [Survey](https://docs.google.com/forms/d/e/1FAIpQLSc72c2ABrF1uiB0OLWYwt_sbDNeA9YEBAxEknJl-L6ik7cfQQ/viewform)
 
 There are 3 steps to create your account on [IBM Cloud](https://ibm.biz/MEA-DataAI): <br>
 1- Put your email and password. <br>
@@ -193,7 +193,7 @@ In this tutorial, you learned how to extend a chatbot's capabilities with the po
 - Click [Here](https://ibm.biz/MEA-DataAI-Survey) to fill the survey (We really appreciate any feedback :D) <br>
 - Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
 - Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
-- Survey [https://docs.google.com/forms/d/e/1FAIpQLSc72c2ABrF1uiB0OLWYwt_sbDNeA9YEBAxEknJl-L6ik7cfQQ/viewform]
+- [Survey](https://docs.google.com/forms/d/e/1FAIpQLSc72c2ABrF1uiB0OLWYwt_sbDNeA9YEBAxEknJl-L6ik7cfQQ/viewform)
 
 # Reference Links
 - https://developer.ibm.com/patterns/fraud-prediction-using-autoai/
