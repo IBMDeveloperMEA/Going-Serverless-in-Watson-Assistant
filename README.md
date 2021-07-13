@@ -195,6 +195,6 @@ In this tutorial, you learned how to extend a chatbot's capabilities with the po
 
 
 # Reference Links
-- https://developer.ibm.com/tutorials/go-serverless-in-watson-assistant-with-ibm-cloud-function/
+- https://developer.ibm.com/tutorials/analyze-loan-transactions-with-cognos-analytics/
 
 
