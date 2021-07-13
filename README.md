@@ -3,7 +3,6 @@
 # Workshop Resources
 - Login/Sign Up for [IBM Cloud](https://ibm.biz/DeveloperSummit) <br>
 - [Slides](https://github.com/IBMDeveloperMEA/Going-Serverless-in-Watson-Assistant/blob/master/Going%20Serverless%20in%20Watson%20Assistant.pdf) <br>
-- Workshop [Replay]() <br>
 - [Survey](https://docs.google.com/forms/d/e/1FAIpQLSc72c2ABrF1uiB0OLWYwt_sbDNeA9YEBAxEknJl-L6ik7cfQQ/viewform) (We really appreciate any feedback :D) <br><br>
 - Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
 - Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
@@ -188,7 +187,6 @@ In this tutorial, you learned how to extend a chatbot's capabilities with the po
 # Workshop Resources
 - Login/Sign Up for [IBM Cloud](https://ibm.biz/DeveloperSummit) <br>
 - [Slides](https://github.com/IBMDeveloperMEA/Going-Serverless-in-Watson-Assistant/blob/master/Going%20Serverless%20in%20Watson%20Assistant.pdf) <br>
-- Workshop [Replay]() <br> 
 - [Survey](https://docs.google.com/forms/d/e/1FAIpQLSc72c2ABrF1uiB0OLWYwt_sbDNeA9YEBAxEknJl-L6ik7cfQQ/viewform) (We really appreciate any feedback :D) <br><br>
 - Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
 - Check [IBM Developer](https://developer.ibm.com/) to learn and explore a variety technologies and services that you're interested in <br>
